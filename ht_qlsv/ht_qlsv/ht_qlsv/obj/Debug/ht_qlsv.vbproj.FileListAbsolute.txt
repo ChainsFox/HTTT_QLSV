@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\bin\Debug\ht_qlsv.exe.config
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\bin\Debug\ht_qlsv.exe
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\bin\Debug\ht_qlsv.pdb
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\bin\Debug\ht_qlsv.xml
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.Form1.resources
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.Resources.resources
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.vbproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.exe
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.xml
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.pdb
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.Form2_khoa.resources
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.Form3_monhoc.resources
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.Form4_diem.resources
+C:\Users\ADMIN\Desktop\codecenter\Visual Studio Projects\ht_qlsv\ht_qlsv\ht_qlsv\obj\Debug\ht_qlsv.Form5_hdsd.resources
